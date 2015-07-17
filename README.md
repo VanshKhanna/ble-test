@@ -1,5 +1,6 @@
 #Test Results#
 ###BlueGiga BLED112###
+Tests with advertising enabled.
 | Number of beacons|Time Limit|Beacon Count
 -------------------|----------|------------
 3                  | 3        | 11, 9, 9
